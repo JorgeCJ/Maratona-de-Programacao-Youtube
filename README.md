@@ -1,0 +1,1 @@
+Projeto desenvolvido para o evento Maratona Kenzie. Fiz algumas alterações, como interações com botões, função de pesquisa, aumentar o número de views quando um vídeo for clicado , algumas pequenas mudanças e otimizações do código.
